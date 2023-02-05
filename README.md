@@ -1,5 +1,5 @@
 # Random-joke-generator
-A web-based application that displays a random joke, built with Bootstrap, JavaScript, and the Fetch API.
+A web-based application that displays a random joke, built with Bootstrap, JavaScript.
 
 ## Getting Started
 These instructions will help you get a copy of the project up and running on your local machine for development and testing purposes.
@@ -19,4 +19,6 @@ These instructions will help you get a copy of the project up and running on you
 ## Built With
 - Bootstrap - A CSS framework for building responsive, mobile-first websites
 - JavaScript - A high-level, interpreted programming language
-- Fetch API - A modern web API for making HTTP requests
+
+## live demo
+
