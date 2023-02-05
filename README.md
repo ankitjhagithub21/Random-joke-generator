@@ -20,5 +20,5 @@ These instructions will help you get a copy of the project up and running on you
 - Bootstrap - A CSS framework for building responsive, mobile-first websites
 - JavaScript - A high-level, interpreted programming language
 
-## live demo
-
+## Github page
+('''https://ankitjhagithub21.github.io/Random-joke-generator/''')
