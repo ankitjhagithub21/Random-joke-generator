@@ -499,7 +499,173 @@ const jokes = [
         "id": 67,
         "safe": true,
         "lang": "en"
+    },
+    {
+        "category": "Dark",
+        "type": "twopart",
+        "joke": "What did the cannibal do after he dumped his girlfriend?",
+        "delivery": "He wiped his ass.",
+        "flags": {
+            "nsfw": true,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": 158,
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Misc",
+        "type": "twopart",
+        "joke": "What's the difference between a school bus and a cactus?",
+        "delivery": "A cactus keeps the little pricks on the outside.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": 188,
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Pun",
+        "type": "single",
+        "joke": "I was reading a great book about an immortal dog the other day. It was impossible to put down.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": 236,
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Programming",
+        "type": "twopart",
+        "joke": "How do you know God is a shitty programmer?",
+        "delivery": "He wrote the OS for an entire universe, but didn't leave a single useful comment.",
+        "flags": {
+            "nsfw": false,
+            "religious": true,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": 19,
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Programming",
+        "type": "single",
+        "joke": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": 38,
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Dark",
+        "type": "twopart",
+        "joke": "What's the difference between Harry Potter and the jews?",
+        "delivery": "Harry escaped the chamber.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": true,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": 219,
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Misc",
+        "type": "single",
+        "joke": "If you're here for the yodeling lesson, please form an orderly orderly orderly queue.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": 139,
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Programming",
+        "type": "twopart",
+        "joke": "Hey, wanna hear a joke?",
+        "delivery": "Parsing HTML with regex.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": 10,
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Programming",
+        "type": "single",
+        "joke": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": 259,
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Programming",
+        "type": "single",
+        "joke": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": 4,
+        "safe": true,
+        "lang": "en"
     }
+    
 ]
 let index;
 btn.addEventListener("click",()=>{
